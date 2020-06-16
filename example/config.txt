@@ -1,0 +1,2 @@
+Prefix plugins/MIMOSA/example
+Plugin MIMOSA inputfile ICS.csv outputfile qvalues.csv
