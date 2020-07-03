@@ -2,7 +2,8 @@
 # Language: R
 # Input: CSV
 # Output: CSV
-# Tested with: PluMA 1.0, R 4.0
+# Tested with: PluMA 1.1, R 4.0.0
+# Dependency: MIMOSA_1.26.0
 
 PluMA plugin to fit data using the MIMOSA package (Finak et al, 2013) 
 
